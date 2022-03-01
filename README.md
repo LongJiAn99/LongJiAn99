@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long Ji-An</h1>
 <h3 align="center">A passionate and enthusiastic student in the field of Business Analytics</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=longjian99" alt="longjian99" /></a> </p>
-
 - 📫 How to reach me **longja05@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ji-an-long-6b3436114/](https://www.linkedin.com/in/ji-an-long-6b3436114/)
@@ -17,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=longjian99&show_icons=true&locale=en&layout=compact" alt="longjian99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longjian99&show_icons=true&locale=en" alt="longjian99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longjian99&show_icons=true&theme=algolia&locale=en" alt="longjian99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longjian99&" alt="longjian99" /></p>
